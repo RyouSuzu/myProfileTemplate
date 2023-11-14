@@ -9,6 +9,7 @@ function App() {
         <p>
           This Site is Profile Site By Momoyama Tech Club
         </p>
+        <p>ryouta is suzuka</p>
         <a
           className="App-link"
           href="https://reactjs.org"
