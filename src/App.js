@@ -7,7 +7,7 @@ function App() {
         <img src="shasin.jpg" alt='ryouta'></img>
         <h1>公式プロフィール</h1>
         <p>カテゴリー　現役ダンサー</p>
-        <p>氏名　💩木山僚太💩</p>
+        <p>氏名　ルカ</p>
         <p>生年月日　2003年7月31日</p>
         <p>主ジャンル　lock</p>
         <p>他ジャンル　break、アニメーション、KRUMP、HIP-HOP</p>

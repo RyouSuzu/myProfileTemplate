@@ -11,6 +11,9 @@ img{
   height: 500px;
   margin: 20px;
 }
+a{
+  color: #61dafb;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
