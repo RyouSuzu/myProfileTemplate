@@ -15,7 +15,8 @@ function App() {
         <p>体重　61㎏</p>
         <p>趣味　テニス、ダンス、釣り、ゲーム、オタ活</p>
         <p>所属　桃山学院大学、経営学部、経営学科、桃山テック会</p>
-        <p></p>
+        <p>公式X https:twitter.com/Jinyon_0731_CHUS </p>
+        <a href='https:twitter.com/Jinyon_0731_CHU'>バックダンサー、ショーケース出演、振付作成などのお仕事の依頼はこちらのDMまで</a>
 
 
       </header>
